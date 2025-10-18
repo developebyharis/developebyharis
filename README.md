@@ -4,6 +4,7 @@
 
 
 <!---------------------------- About Me ----------------------------->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/developebyharis/developebyharis/main/developer.gif" height="250" width="375" />
 
 - 🔭 Currently crafting my Portfolio with passion and precision.
 - 👨‍💻 Explore my diverse projects at https://hariskhan.vercel.app/.
