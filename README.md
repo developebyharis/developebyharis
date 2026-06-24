@@ -1,6 +1,6 @@
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Haris!😇
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Full-Stack+Engineer;I'm+a+Software+Engineer;CS+student)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Full-Stack+Engineer;I'm+a+Software+Engineer;I'm+a+CS+student)
 
 
 <!---------------------------- About Me ----------------------------->
